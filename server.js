@@ -22,6 +22,6 @@ io.on("connection", function(socket){
     });
 });
 
-server.listen(https://uschat.onrender.com);
+server.listen(5000);
 
 app.listen(process.env.PORT || port, () => console.log(`listening on port ${port}`))
